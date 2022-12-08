@@ -1,3 +1,3 @@
-export default function Home() {
-  return <h1>Hello Next</h1>;
+export default function Inicio() {
+  return <h1>Hola Next</h1>;
 }
